@@ -1,7 +1,7 @@
 KLTableViewController
 ======================
 
-![ScreenShot](http://http://oi41.tinypic.com/23sw4g9.jpg)  
+![ScreenShot](https://www.evernote.com/shard/s5/sh/7d08a542-2a0e-4bc5-863c-fbff9e1e6f5b/f4871550e91f43e75a3eaf346bd01230/deep/0/sshot.png)  
 
 KLTableViewController written for the Web Xojo Target.
 
